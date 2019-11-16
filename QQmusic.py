@@ -52,4 +52,4 @@ print('''
 感谢使用！''')
 time.sleep(4)
 os.system('cls')
-QQ_lrc(input('请输入歌名: ','song')
+QQ_lrc(input('请输入歌名: ','song'))
